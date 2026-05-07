@@ -158,7 +158,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
 
                     const SizedBox(height: 25),
 
-                    /// BUTTON
+                    /// RESET BUTTON
                     SizedBox(
                       width: double.infinity,
 
