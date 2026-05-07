@@ -150,7 +150,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     const SizedBox(height: 10),
 
                     const Text(
-                      "Silakan login untuk melanjutkan",
+                      "Masuk ke akun Anda untuk melanjutkan",
                       style: TextStyle(color: Colors.grey),
                     ),
 
